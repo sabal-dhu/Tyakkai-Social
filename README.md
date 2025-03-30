@@ -1,1 +1,2 @@
-Tyakkai Social
+Tyakkai Social 
+Social Media Management
